@@ -1,0 +1,61 @@
+.navbar {
+    overflow: hidden;
+   position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+  }
+h2 {
+    color: rgb(255, 0, 0);
+}
+h3 {
+    color: green
+}
+li {
+    display: inline; 
+    border: 30px;
+    padding: 8px;
+    background-color: greenyellow
+    
+}
+a:hover {
+    color: bisque;
+    border: 3px black
+}
+a:focus {
+    background-color: aqua;
+}
+.about > h3 {
+    margin-top: 100px 100px 100px 100px;
+    border-radius: 900px;
+} 
+.work > h3 > p {
+    margin-top: 900px ; 
+}
+
+p {
+    font-family: font-family: 'Roboto', sans-serif;
+
+}
+.input {
+
+border: 3px black solid;
+width: 60%;
+margin: auto;
+padding: 3px 1px;
+}
+.button {
+    color: blue;
+    background-color: rgb(195, 190, 62);
+    border-radius: 10px;
+    margin: 20px 50px;
+    padding: 20px 10px;
+    
+}
+.body {
+    background-image:url(avopix-179033417.jpg)
+    
+    }
+ 
+        
+
+    
